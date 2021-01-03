@@ -5,17 +5,19 @@ Un codice Gray può essere generato mediante una procedura ricorsiva, ricordando
 - la procedura prosegue allo stesso modo per tutti i passaggi successivi.
 
 
-      --1 bit--
+      1 bit:
       0
       1
 
-      --2 bit--
+
+      2 bit:
       00
       01
       11
       10
 
-      --3 bit--
+
+      3 bit:
       000
       001
       011
